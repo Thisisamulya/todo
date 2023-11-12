@@ -4,4 +4,5 @@ Stay on top of your tasks with our sleek and intuitive Todo web application. Sea
 
 ⚠️the above TodoList application is not fully coded!! will update the full code soon 😃
 
-![todoop](https://github.com/Thisisamulya/todo/assets/128579615/51ee7f2c-aca0-4ee9-b4e5-f2300660ef7b)
+
+![todoop](https://github.com/Thisisamulya/todo/assets/128579615/aa9a7728-4d89-447e-aed6-20ec66f99e2d)
